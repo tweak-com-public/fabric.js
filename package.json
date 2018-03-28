@@ -47,7 +47,7 @@
     "all": "npm run build && npm run test && npm run lint && npm run lint_tests && npm run export_dist_to_site && npm run export_tests_to_site"
   },
   "optionalDependencies": {
-    "canvas": "2.x.x",
+    "canvas": "2.0.0-alpha.12",
     "jsdom": "11.2.x",
     "xmldom": "0.1.x"
   },
