@@ -48,7 +48,7 @@
   },
   "optionalDependencies": {
     "canvas": "2.0.0-alpha.12",
-    "jsdom-canvas-2": "11.6.2",
+    "jsdom-canvas-2": "11.6.3-alpha.0",
     "xmldom": "0.1.x"
   },
   "devDependencies": {
