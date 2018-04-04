@@ -9,7 +9,7 @@
       HTTP = require('http'),
       HTTPS = require('https'),
 
-      Canvas = require('canvas'),
+      Canvas = require('canvas').Canvas,
       Image = require('canvas').Image;
 
   /** @private */

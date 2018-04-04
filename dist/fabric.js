@@ -26896,7 +26896,7 @@ fabric.util.object.extend(fabric.IText.prototype, /** @lends fabric.IText.protot
       HTTP = require('http'),
       HTTPS = require('https'),
 
-      Canvas = require('canvas'),
+      Canvas = require('canvas').Canvas,
       Image = require('canvas').Image;
 
   /** @private */
